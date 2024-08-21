@@ -26,7 +26,6 @@ Ensure that your environment has the necessary packages such as torch, transform
 Prepare a dataset of English and Spanish memes and their corresponding annotations. Organize the dataset into a folder structure for easy access by both the deep learning and machine learning modules.
 
 # Usage
-
 Multimodal Deep Learning
 All deep learning-related tasks are performed in the Multimodal_Deep_Learning.ipynb notebook.
 Open the Notebook: Open Multimodal_Deep_Learning.ipynb in Jupyter Notebook or JupyterLab.
@@ -40,14 +39,8 @@ Prediction
 For prediction, follow the respective sections in each notebook (Multimodal_Deep_Learning.ipynb and Multimodal_Machine_Learning.ipynb) to generate predictions for new memes.
 
 # Model Architecture
-Deep Learning Architecture
-The deep learning architecture consists of multiple components:
-BERT (Multilingual): For encoding textual content.
-GPT-2: For enhanced text contextualization.
-CLIP: For aligning text and image features.
-Swin Transformer: For robust image classification.
 
-Machine Learning Models
+# Machine Learning Models
 The machine learning models are applied to the extracted CLIP image features. The following models are trained and evaluated:
 Logistic Regression
 Random Forest
@@ -58,6 +51,13 @@ AdaBoost
 SGD Classifier
 MLP
 CatBoost
+
+# Deep Learning Architecture
+The deep learning architecture consists of multiple components:
+BERT (Multilingual): For encoding textual content.
+GPT-2: For enhanced text contextualization.
+CLIP: For aligning text and image features.
+Swin Transformer: For robust image classification.
 
 Contributing
 We welcome contributions from the community. Please fork the repository and submit a pull request.
