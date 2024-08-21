@@ -1,4 +1,4 @@
-# # Identifying-Sexist-Memes-in-English-and-Spanish-Digital-Culture
+# Identifying-Sexist-Memes-in-English-and-Spanish-Digital-Culture
 
 # Project Overview
 Internet memes have become a significant form of online communication, often perpetuating negative stereotypes and subtle or overt forms of sexism. This project aims to enhance digital safety by employing both advanced multimodal deep learning and traditional machine learning strategies to identify sexist content in memes across English and Spanish digital cultures.
