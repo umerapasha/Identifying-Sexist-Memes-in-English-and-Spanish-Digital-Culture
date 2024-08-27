@@ -62,9 +62,6 @@ Swin Transformer: For robust image classification.
 # Contributing
 We welcome contributions from the community. Please fork the repository and submit a pull request.
 
-# License
-This project is licensed under the MIT License.
-
 # Contact Information
 Name: Umera Pasha
 Email: umerapasha.786@gmail.com
