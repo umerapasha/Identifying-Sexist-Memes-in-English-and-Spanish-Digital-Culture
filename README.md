@@ -59,6 +59,12 @@ GPT-2: For enhanced text contextualization.
 CLIP: For aligning text and image features.
 Swin Transformer: For robust image classification.
 
+# Ablation Study
+These code files are experimentations of hybrid approaches consisting of:
+1. GPT2, CLIP, SWIN
+2. BERT, CLIP, SWIN
+3. BERT, GPT2, SWIN
+
 # Contributing
 We welcome contributions from the community. Please fork the repository and submit a pull request.
 
